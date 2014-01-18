@@ -7,5 +7,5 @@ type.
 
 Intended usage: describe your problem in form of a Jasmine test that fails.
 Remove JQuery or AngularJS references if your intended minimal working example
-does not use them. Then paste the code into Plunker of JSFiddle to discuss it
+does not use them. Then paste the code into Plunker or JSFiddle to discuss it
 with other people.
